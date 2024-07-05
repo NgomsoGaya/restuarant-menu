@@ -1,0 +1,50 @@
+restaurant:
+  name: "Gourmet Haven"
+  website: "www.gourmethaven.com"
+  email: "info@gourmethaven.com"
+  phone: "+1 (555) 123-4567"
+
+menu:
+  starters:
+    - name: "Bruschetta"
+      price: "$8.50"
+      description: "Grilled bread topped with fresh tomatoes, basil, and a balsamic glaze."
+    - name: "Stuffed Mushrooms"
+      price: "$9.00"
+      description: "Button mushrooms stuffed with a creamy garlic and herb cheese."
+    - name: "Caesar Salad"
+      price: "$7.00"
+      description: "Crisp romaine lettuce, croutons, and parmesan cheese, tossed in a tangy Caesar dressing."
+
+  mains:
+    - name: "Grilled Salmon"
+      price: "$18.00"
+      description: "Fresh salmon fillet grilled to perfection, served with a side of roasted vegetables."
+    - name: "Spaghetti Carbonara"
+      price: "$15.00"
+      description: "Classic Italian pasta with pancetta, egg, and parmesan cheese in a creamy sauce."
+    - name: "Vegetarian Pizza"
+      price: "$14.00"
+      description: "Stone-baked pizza topped with bell peppers, onions, mushrooms, and olives."
+
+  desserts:
+    - name: "Tiramisu"
+      price: "$6.50"
+      description: "Traditional Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese."
+    - name: "Chocolate Lava Cake"
+      price: "$7.00"
+      description: "Warm chocolate cake with a gooey molten center, served with vanilla ice cream."
+    - name: "Cheesecake"
+      price: "$6.00"
+      description: "Creamy cheesecake with a graham cracker crust, topped with fresh berries."
+
+  drinks:
+    - name: "Fresh Lemonade"
+      price: "$3.50"
+      description: "Refreshing lemonade made with freshly squeezed lemons and a hint of mint."
+    - name: "Iced Coffee"
+      price: "$4.00"
+      description: "Cold brew coffee served over ice, with optional milk and sweetener."
+    - name: "House Red Wine"
+      price: "$6.00"
+      description: "A robust red wine with notes of blackberry and oak, perfect for pairing with any meal."
