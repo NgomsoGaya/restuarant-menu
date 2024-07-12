@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 const path = require('path');
-import { marked } from 'marked';
+//import { marked } from 'marked';
 const marked = require('marked'); // Import the 'marked' library for parsing Markdown
 
 // Define a route handler for GET requests to '/api/menu'
